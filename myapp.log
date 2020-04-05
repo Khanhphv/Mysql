@@ -1,0 +1,83 @@
+2020-04-04 19:46:29,028 ERROR __main__ Err:::2290
+2020-04-04 19:48:28,233 ERROR __main__ Err:::2573
+2020-04-04 19:49:23,934 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:49:50,898 ERROR __main__ Err:::2802
+2020-04-04 19:51:17,732 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:51:54,512 ERROR __main__ Err:::3174
+2020-04-04 19:52:23,819 ERROR __main__ Err:::3284
+2020-04-04 19:52:25,688 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:53:19,627 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:53:19,962 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:53:27,622 ERROR __main__ Err:::3509
+2020-04-04 19:53:51,289 ERROR __main__ Err:::3596
+2020-04-04 19:54:16,801 ERROR __main__ Err:::3614
+2020-04-04 19:54:28,286 ERROR __main__ Err:::3658
+2020-04-04 19:54:31,829 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:54:44,152 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:55:47,440 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:56:08,163 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:58:43,854 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:58:56,649 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 19:59:01,324 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:00:03,933 ERROR __main__ Err:::4652
+2020-04-04 20:00:55,858 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:01:56,563 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:04:38,481 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:04:44,075 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:06:16,697 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:11:15,069 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:11:29,822 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:12:56,460 ERROR __main__ Err:::436
+2020-04-04 20:13:00,364 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:13:25,079 ERROR __main__ Err:::469
+2020-04-04 20:13:55,076 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:14:02,132 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:14:06,568 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:15:13,996 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:15:37,303 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:16:20,942 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:16:49,800 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:17:44,723 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:18:15,319 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:19:31,023 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:20:00,511 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:20:01,387 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:20:13,462 ERROR __main__ Err:::1792
+2020-04-04 20:22:47,995 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:22:51,174 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:23:34,300 ERROR __main__ Err:::2290
+2020-04-04 20:25:15,458 ERROR __main__ Err:::2573
+2020-04-04 20:25:51,610 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:27:02,356 ERROR __main__ Err:::2802
+2020-04-04 20:28:50,504 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:29:07,188 ERROR __main__ Err:::3174
+2020-04-04 20:29:58,914 ERROR __main__ Err:::3284
+2020-04-04 20:30:00,833 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:30:57,264 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:30:57,627 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:31:26,264 ERROR __main__ Err:::3509
+2020-04-04 20:31:50,051 ERROR __main__ Err:::3596
+2020-04-04 20:31:54,302 ERROR __main__ Err:::3614
+2020-04-04 20:32:06,628 ERROR __main__ Err:::3658
+2020-04-04 20:32:10,669 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:32:44,652 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:33:50,239 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:34:13,485 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:37:17,299 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:37:51,401 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:37:56,235 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:39:25,337 ERROR __main__ Err:::4652
+2020-04-04 20:40:19,453 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:41:25,598 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:44:00,550 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:44:06,807 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:45:23,072 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:52:59,513 WARNING bs4.dammit Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2020-04-04 20:54:26,571 ERROR __main__ Err:::7048
+2020-04-04 21:03:03,617 ERROR __main__ Err:::8498
+2020-04-04 21:10:04,691 ERROR __main__ Err:::9399
+2020-04-04 21:14:41,259 ERROR __main__ Err:::10116
+2020-04-04 21:14:58,268 ERROR __main__ Err:::10170
+2020-04-04 21:16:54,978 ERROR __main__ Err:::10493
+2020-04-04 21:21:45,173 ERROR __main__ Err:::11212
+2020-04-04 21:22:39,334 ERROR __main__ Err:::11402

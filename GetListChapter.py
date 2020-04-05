@@ -6,10 +6,11 @@ class GetListChapter:
     def __init__(self, link):
         self.link = link
         self.page = ''
-        self.getListPages()
+        # self.getListPages()
 
 
     def getListPages(self):
+        listpage_arr = []
         self.content = urllib.request.urlopen(self.link).read()
         content = BeautifulSoup(self.content, 'html.parser')
         list_page = content.find('ul', {"class": "pagination-sm"})
@@ -31,7 +32,11 @@ class GetListChapter:
             else:
                 tmp += str(i)
             link_page = self.link + tmp
-            print(link_page)
+            print('####### ' +link_page)
+            listpage_arr.append(link_page)
+        if len(listpage_arr) == 0:
+            listpage_arr.append(self.link)
+        return listpage_arr;
 
     def get_page(self, title):
         print(title)
